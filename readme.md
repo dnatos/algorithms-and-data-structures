@@ -1,5 +1,5 @@
-### Algorithms and Data Structures in JavaScript
+## Algorithms and Data Structures in JavaScript
 
-# Algorithm excersices
+### Algorithm excersices
 
-# Data Structures
+### Data Structures
